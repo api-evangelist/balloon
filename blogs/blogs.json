@@ -1,0 +1,21 @@
+{
+  "repo": "balloon",
+  "feeds": [
+    {
+      "source": "https://help.balloon.app/",
+      "feed_url": "https://help.balloon.app/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://blog.getballoon.com/",
+      "feed_url": "https://blog.getballoon.com/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-20T13:31:34Z"
+}

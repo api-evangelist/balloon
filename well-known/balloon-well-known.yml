@@ -1,0 +1,44 @@
+generated: '2026-07-18'
+method: searched
+source: live probes of /.well-known/* on Balloon hosts
+notes: >-
+  Balloon (getballoon.com) publishes no first-party /.well-known/ discovery
+  surface. The application host balloon.app returns HTTP 200 for every path
+  but serves an HTML meta-refresh to /login (SPA catch-all), so none of its
+  /.well-known/* responses are genuine documents. The only real hit is a
+  security.txt on the Intercom-hosted help center (help.balloon.app), which is
+  Intercom's own vendor security.txt (Canonical: app.intercom.com) and is NOT
+  Balloon's own vulnerability-disclosure policy — it is therefore recorded here
+  but not wired as a Balloon SecurityTxt/Security pointer.
+hosts:
+- host: https://getballoon.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+- host: https://help.balloon.app
+  documents:
+  - path: /.well-known/security.txt
+    status: 200
+    file: null
+    owner: Intercom (help-center vendor)
+    canonical: https://app.intercom.com/.well-known/security.txt
+    balloon_owned: false
+- host: https://balloon.app
+  documents:
+  - path: /.well-known/security.txt
+    status: 200
+    note: SPA catch-all — HTML meta-refresh to /login, not a real document
+  - path: /.well-known/openid-configuration
+    status: 200
+    note: SPA catch-all — HTML meta-refresh to /login, not a real document
+  - path: /openapi.json
+    status: 200
+    note: SPA catch-all — HTML meta-refresh to /login, not a real document

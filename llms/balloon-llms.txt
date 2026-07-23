@@ -1,0 +1,38 @@
+# Balloon Help Center
+
+> Help center for Balloon
+
+## Getting Started
+
+- [Balloon Overview](http://help.balloon.app/en/articles/3558549-balloon-overview.md)
+- [How do I invite users to my team?](http://help.balloon.app/en/articles/2560046-how-do-i-invite-users-to-my-team.md)
+- [How do I change the access level of each user?](http://help.balloon.app/en/articles/3152962-how-do-i-change-the-access-level-of-each-user.md)
+- [How do I resend an account confirmation email to new users of Balloon?](http://help.balloon.app/en/articles/3561922-how-do-i-resend-an-account-confirmation-email-to-new-users-of-balloon.md)
+- [Admin Setup / Why aren't people receiving the flight access emails?](http://help.balloon.app/en/articles/8981354-admin-setup-why-aren-t-people-receiving-the-flight-access-emails.md): Details on Whitelisting, IT/Security/Allow & Deny Lists
+- [How do I setup my account?](http://help.balloon.app/en/articles/2910775-how-do-i-setup-my-account.md)
+- [Creating A Flight](http://help.balloon.app/en/articles/2543406-creating-a-flight.md)
+- [How much time is assigned for each stage, and can I modify it?](http://help.balloon.app/en/articles/2543554-how-much-time-is-assigned-for-each-stage-and-can-i-modify-it.md)
+- [Editing A Flight](http://help.balloon.app/en/articles/2543425-editing-a-flight.md)
+- [Can I invite internal and external groups to my flight?](http://help.balloon.app/en/articles/3060087-can-i-invite-internal-and-external-groups-to-my-flight.md)
+- [How do I use domain locking?](http://help.balloon.app/en/articles/5528687-how-do-i-use-domain-locking.md)
+- [Segments: What are they? And how do I create one?](http://help.balloon.app/en/articles/2920782-segments-what-are-they-and-how-do-i-create-one.md)
+- [Stage 1: Launching and Discussing Balloons](http://help.balloon.app/en/articles/2543449-stage-1-launching-and-discussing-balloons.md)
+- [Stage 2: Pumping Balloons](http://help.balloon.app/en/articles/2543455-stage-2-pumping-balloons.md)
+- [After the Flight Ends: Results and Claiming Balloons](http://help.balloon.app/en/articles/2543493-after-the-flight-ends-results-and-claiming-balloons.md)
+- [Can I take credit for a balloon or comment that I submitted?](http://help.balloon.app/en/articles/2543692-can-i-take-credit-for-a-balloon-or-comment-that-i-submitted.md)
+- [Flight Notifications](http://help.balloon.app/en/articles/2543427-flight-notifications.md)
+
+## FAQ
+
+- [How do I find my team domain?](http://help.balloon.app/en/articles/5998338-how-do-i-find-my-team-domain.md)
+- [How do I log into Balloon?](http://help.balloon.app/en/articles/3561944-how-do-i-log-into-balloon.md)
+- [Does Balloon have a mobile app?](http://help.balloon.app/en/articles/3561951-does-balloon-have-a-mobile-app.md)
+- [What’s anonymous? What’s not anonymous?](http://help.balloon.app/en/articles/887546-what-s-anonymous-what-s-not-anonymous.md)
+- [Can my anonymous balloons be traced back to me?](http://help.balloon.app/en/articles/887576-can-my-anonymous-balloons-be-traced-back-to-me.md)
+- [What can my boss see?](http://help.balloon.app/en/articles/887583-what-can-my-boss-see.md)
+- [Understanding Flight Results & Metrics](http://help.balloon.app/en/articles/3764793-understanding-flight-results-metrics.md)
+- [Why can balloons only be pumped up? Why can't I down vote?](http://help.balloon.app/en/articles/3160049-why-can-balloons-only-be-pumped-up-why-can-t-i-down-vote.md)
+- [Is there a limit on the number of pumps?](http://help.balloon.app/en/articles/3168903-is-there-a-limit-on-the-number-of-pumps.md)
+- [Can I pump up my own balloons?](http://help.balloon.app/en/articles/3285241-can-i-pump-up-my-own-balloons.md)
+- [What does it mean to deactivate a user?](http://help.balloon.app/en/articles/887552-what-does-it-mean-to-deactivate-a-user.md)
+- [How do I maximize flight engagement?](http://help.balloon.app/en/articles/8496070-how-do-i-maximize-flight-engagement.md)
