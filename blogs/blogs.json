@@ -2,11 +2,11 @@
   "repo": "balloon",
   "feeds": [
     {
-      "source": "https://help.balloon.app/",
+      "source": "https://help.balloon.app/feed.xml",
       "feed_url": "https://help.balloon.app/feed.xml",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://blog.getballoon.com/rss.xml",
@@ -16,6 +16,13 @@
       "method": "feed"
     },
     {
+      "source": "https://help.balloon.app/",
+      "feed_url": "https://help.balloon.app/feed.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
       "source": "https://blog.getballoon.com/",
       "feed_url": "https://blog.getballoon.com/rss.xml",
       "title": "",
@@ -23,6 +30,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 10,
-  "fetched": "2026-08-01T15:49:00Z"
+  "post_count": 35,
+  "fetched": "2026-08-06T14:08:46Z"
 }
